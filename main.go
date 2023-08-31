@@ -1,1 +1,7 @@
-package golang_trick
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("hello")
+}
